@@ -1,0 +1,13 @@
+{
+    "name":                         "promptwithfriends",
+    "fe_host":                      "http://localhost:5173",
+    "be_host":                      "http://localhost:3000",
+    "mongo_URI":                    "mongodb://127.0.0.1:27017/pwfDB",
+    "ai_key":                       "YOUR-KEY-HERE",
+    "secure":                       false,
+    "gc_interval_minutes" :         10,
+    "gc_sessions_ttl_minutes" :     1440,
+    "timer_prompting" :             60,
+    "timer_voting" :                30,
+    "timer_leaderboard" :           15
+}

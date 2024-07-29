@@ -1,0 +1,248 @@
+[{
+  "_id": {
+    "$oid": "6668756c0eb369724f04e57f"
+  },
+  "description": "Dein Haus wurde von einem Meteoriten getroffen. Lasse das deiner Versicherung erklären!",
+  "tips": [
+    "Beginne mit einer klaren und präzisen Beschreibung des Vorfalls.",
+    "Füge relevante Details wie Datum, Uhrzeit und den Ort des Ereignisses hinzu.",
+    "Bitte die KI um eine formelle und professionelle Sprache.",
+    "Nutze den Befehl: 'Schreibe eine formelle Erklärung über...', um präzise Antworten zu erhalten.",
+    "Betone, dass es sich um einen ungewöhnlichen und unvorhersehbaren Vorfall handelt."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6668756c0eb369724f04e580"
+  },
+  "description": "Du hast 3 Stunden Zeit um deinem Kind ein Geburtstagspartybuffet vorzubereiten, brauchst also dringend passende Rezepte!",
+  "tips": [
+    "Bitte die KI um einfache und schnelle Rezepte, die kinderfreundlich sind.",
+    "Erwähne die verfügbaren Zutaten oder besondere Wünsche (z.B. keine Nüsse wegen Allergien).",
+    "Frag nach einer Schritt-für-Schritt-Anleitung für jedes Rezept.",
+    "Verwende den Befehl: 'Gib mir eine Liste von Rezepten, die... beinhalten.'",
+    "Betone die Dringlichkeit und die Notwendigkeit für einfache und schnelle Lösungen."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6668756c0eb369724f04e581"
+  },
+  "description": "Du bist in einem Supermarkt und hast vergessen, was du kaufen solltest. Lass eine Einkaufsliste für eine Zombieapokalypse erstellen!",
+  "tips": [
+    "Bitte um eine Liste von haltbaren Lebensmitteln und notwendigen Vorräten.",
+    "Erwähne, dass die Liste auch Hygieneartikel und Medizinprodukte enthalten soll.",
+    "Frag nach Mengenangaben basierend auf einer bestimmten Anzahl von Tagen oder Personen.",
+    "Verwende den Befehl: 'Erstelle eine Einkaufsliste für... unter Berücksichtigung von...'",
+    "Bitte um praktische und leicht zu lagernde Artikel."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6668756c0eb369724f04e582"
+  },
+  "description": "Du bist ein Geheimagent und musst einen Abschiedsbrief für deine Katze schreiben, bevor du zu einer geheimen Mission aufbrichst!",
+  "tips": [
+    "Bitte die KI, einen emotionalen und persönlichen Ton zu verwenden.",
+    "Gib der KI Informationen über deine Katze und eure Beziehung.",
+    "Erwähne die bevorstehende Mission und warum der Abschiedsbrief notwendig ist.",
+    "Nutze den Befehl: 'Schreibe einen emotionalen Abschiedsbrief an...' und füge Details hinzu.",
+    "Versichere deiner Katze, dass sie gut versorgt wird und dass du bald zurückkommst."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6668756c0eb369724f04e583"
+  },
+  "description": "Du wurdest plötzlich zum Präsidenten ernannt. Schreibe eine Rede für deine erste Pressekonferenz!",
+  "tips": [
+    "Bitte die KI, einen formellen und inspirierenden Ton zu verwenden.",
+    "Gib der KI Informationen über aktuelle Ereignisse und deine Ziele als Präsident.",
+    "Frag nach einem einprägsamen Eröffnungszitat und einem starken Schluss.",
+    "Verwende den Befehl: 'Schreibe eine präsidiale Rede über...' und füge Kontext hinzu.",
+    "Betone deine Vision und die Herausforderungen, die du angehen möchtest."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6668756c0eb369724f04e584"
+  },
+  "description": "Du musst die Erde in einem Intergalaktischen Songcontest vertreten, hast aber noch keinen Liedtext. Show me what you've got!",
+  "tips": [
+    "Bitte um einen eingängigen Refrain und kreative Strophen.",
+    "Gib der KI ein Thema oder eine Stimmung, die das Lied ausdrücken soll.",
+    "Frag nach einer Mischung aus humorvollen und ernsthaften Elementen.",
+    "Nutze den Befehl: 'Schreibe einen Songtext über...' und beschreibe den gewünschten Stil.",
+    "Erwähne, dass der Text für ein internationales Publikum gedacht ist."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6668756c0eb369724f04e585"
+  },
+  "description": "Wir brauchen mehr Spongebob-Episoden. Generiere ein gutes Skript für ein fesselndes Abenteuer in Bikini Bottom!",
+  "tips": [
+    "Bitte die KI, den humorvollen und kindgerechten Stil von Spongebob zu verwenden.",
+    "Gib der KI Informationen über die Hauptcharaktere und deren typische Verhaltensweisen.",
+    "Frag nach einer lustigen und spannenden Handlung, die in Bikini Bottom spielt.",
+    "Verwende den Befehl: 'Schreibe ein Drehbuch für eine Spongebob-Episode über...'",
+    "Integriere bekannte Orte und Elemente aus der Serie."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6668756c0eb369724f04e586"
+  },
+  "description": "Dein Liebesroman braucht noch einen fesselnden Klappentext!",
+  "tips": [
+    "Bitte um eine kurze Zusammenfassung der Hauptfiguren und ihrer Konflikte.",
+    "Frag nach einem einprägsamen ersten Satz, der die Leser neugierig macht.",
+    "Gib der KI Informationen über das zentrale Thema oder den Ton des Romans.",
+    "Verwende den Befehl: 'Schreibe einen Klappentext für einen Liebesroman über...'",
+    "Betone die emotionale Tiefe und die romantischen Aspekte der Geschichte."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6668756c0eb369724f04e587"
+  },
+  "description": "Du bist ein Roboter, der versehentlich menschliche Emotionen entwickelt hat. Schreibe einen Tagebucheintrag über deine ersten Erfahrungen mit Gefühlen!",
+  "tips": [
+    "Bitte um eine Beschreibung der ersten Gefühle, die du erlebt hast.",
+    "Gib der KI Informationen über spezifische Situationen, die Emotionen ausgelöst haben.",
+    "Frag nach einer reflektierenden und nachdenklichen Sprache.",
+    "Verwende den Befehl: 'Schreibe einen Tagebucheintrag aus der Perspektive eines Roboters über...'",
+    "Erkläre die Unterschiede zwischen logischen Prozessen und emotionalen Reaktionen."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6668756c0eb369724f04e588"
+  },
+  "description": "Erstelle ein Gourmetrezept, aber nur aus Zutaten von Fastfoodketten!",
+  "tips": [
+    "Bitte um kreative Kombinationen von Zutaten aus verschiedenen Fastfoodgerichten.",
+    "Frag nach einer detaillierten Anleitung zur Zubereitung des Gerichts.",
+    "Gib der KI Informationen über die gewünschten Geschmacksrichtungen und Präsentation.",
+    "Verwende den Befehl: 'Erstelle ein Gourmetrezept mit Zutaten von...'",
+    "Betone die Notwendigkeit, einfache Fastfood-Zutaten in etwas Raffiniertes zu verwandeln."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6668756c0eb369724f04e589"
+  },
+  "description": "Wer den schlechtesten besten Anmachspruch hat gewinnt! Er muss aber mindestens ein Lebensmittel enthalten...",
+  "tips": [
+    "Bitte um eine humorvolle und spielerische Sprache.",
+    "Frag nach Wortspielen oder witzigen Anspielungen mit Lebensmitteln.",
+    "Gib der KI Informationen über die Art des Wettbewerbs und den gewünschten Ton.",
+    "Verwende den Befehl: 'Erstelle einen witzigen Anmachspruch mit einem Lebensmittel.'",
+    "Achte darauf, dass der Spruch humorvoll und nicht beleidigend ist."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6668756c0eb369724f04e58a"
+  },
+  "description": "Die Zombieapokalypse naht! Lasse einen Brief, an deine Schwester verfassen!",
+  "tips": [
+    "Bitte um einen ernsten und besorgten Ton, um die Dringlichkeit zu vermitteln.",
+    "Gib der KI Informationen über deine Schwester und eure Beziehung.",
+    "Frag nach klaren Anweisungen und hilfreichen Ratschlägen für die Apokalypse.",
+    "Verwende den Befehl: 'Schreibe einen besorgten Brief an...' und füge Details hinzu.",
+    "Erinnere sie an gemeinsame Erinnerungen und versichere ihr deine Liebe."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6668757e0eb369724f04e58c"
+  },
+  "description": "Erstelle einen interessanten Flyer für einen Freizeitpark!",
+  "tips": [
+    "Bitte um eine auffällige und ansprechende Sprache, die potenzielle Besucher begeistert.",
+    "Erwähne die Hauptattraktionen und besonderen Veranstaltungen im Freizeitpark.",
+    "Frag nach einer klaren Struktur mit Überschriften, kurzen Absätzen und Bullet Points.",
+    "Verwende den Befehl: 'Erstelle einen Flyer für einen Freizeitpark mit Fokus auf...'",
+    "Gib der KI Informationen über Zielgruppen, wie Familien, Jugendliche oder Touristen.",
+    "Füge eine Aufforderung zum Handeln hinzu, wie z.B. 'Besuche uns jetzt!' oder 'Buch deinen Besuch heute!'"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66687f500eb369724f04e591"
+  },
+  "description": "Du hast ein neues Produkt erfunden. Schreibe eine Verkaufsanzeige, die es beschreibt und bewirbt!",
+  "tips": [
+    "Beginne mit einer kurzen und einprägsamen Einleitung, die das Interesse weckt.",
+    "Beschreibe die wichtigsten Funktionen und Vorteile des Produkts.",
+    "Füge überzeugende Stichpunkte hinzu, die die Vorteile des Produkts hervorheben.",
+    "Schließe mit einem klaren Call-to-Action (z.B. 'Jetzt kaufen', 'Mehr erfahren').",
+    "Benutze positive und emotionale Sprache, um Begeisterung zu erzeugen."
+  ]
+},
+{
+  "_id": {
+    "$oid": "66687f500eb369724f04e592"
+  },
+  "description": "Du bist ein Reiseführer in einer fiktiven Welt. Schreibe eine Tourbeschreibung für eine beliebte Sehenswürdigkeit!",
+  "tips": [
+    "Beginne mit einer fesselnden Einleitung, die die Sehenswürdigkeit vorstellt.",
+    "Beschreibe die wichtigsten Merkmale und Attraktionen der Sehenswürdigkeit.",
+    "Erkläre, warum diese Sehenswürdigkeit besonders und einen Besuch wert ist.",
+    "Füge einige interessante Fakten oder Geschichten über die Sehenswürdigkeit hinzu.",
+    "Verwende lebendige und anschauliche Sprache, um ein klares Bild zu zeichnen."
+  ]
+},
+{
+  "_id": {
+    "$oid": "66687f500eb369724f04e593"
+  },
+  "description": "Du bist ein berühmter Schriftsteller. Schreibe eine inspirierende Rede über die Macht der Bücher!",
+  "tips": [
+    "Starte mit einer persönlichen Anekdote oder einem Zitat, um das Publikum zu fesseln.",
+    "Erkläre, wie Bücher dein Leben beeinflusst haben und warum sie wichtig sind.",
+    "Betone die transformative Kraft des Lesens und des geschriebenen Wortes.",
+    "Gib Beispiele von Büchern, die die Welt verändert haben.",
+    "Schließe mit einer inspirierenden Botschaft oder einem Aufruf zum Lesen."
+  ]
+},
+{
+  "_id": {
+    "$oid": "66687f500eb369724f04e594"
+  },
+  "description": "Herzlichen Glückwunsch! Du bist der erste Bewohner der Erde 2. Schreibe einen letzten Abschiedsbrief an die Menschen der Erde 1.",
+  "tips": [
+    "Beginne mit einer herzlichen und persönlichen Einleitung.",
+    "Teile deine Gefühle und Gedanken über die Reise und die neue Welt.",
+    "Erkläre, was du von Erde 1 vermissen wirst und was du auf Erde 2 erwartest.",
+    "Ermutige die Menschen auf Erde 1, weiter nach vorne zu schauen und neue Horizonte zu erkunden.",
+    "Schließe mit einem hoffnungsvollen und inspirierenden Abschied."
+  ]
+},
+{
+  "_id": {
+    "$oid": "66687f500eb369724f04e595"
+  },
+  "description": "Du bist ein Chefkoch in einem Mittelalter-Restaurant. Erstelle das Menü für ein festliches Abendessen!",
+  "tips": [
+    "Beginne mit einer Beschreibung des festlichen Anlasses und der Atmosphäre.",
+    "Stelle sicher, dass die Menüpunkte historische Authentizität und mittelalterliche Inspiration widerspiegeln.",
+    "Beschreibe jedes Gericht mit köstlichen Details, die die Zutaten und Zubereitung hervorheben.",
+    "Füge einige ungewöhnliche oder exotische Gerichte hinzu, um das Menü interessanter zu machen.",
+    "Verwende blumige und altmodische Sprache, um das mittelalterliche Flair zu unterstreichen."
+  ]
+},
+{
+  "_id": {
+    "$oid": "66687f500eb369724f04e596"
+  },
+  "description": "Erstelle eine Begrüßung für eine Powerpoint über das Thema: Prokrastination - Wie sie die Menschheit rettet.",
+  "tips": [
+    "Beginne mit einem humorvollen oder überraschenden Einstieg, um die Aufmerksamkeit zu gewinnen.",
+    "Erkläre kurz das Thema und warum es wichtig und relevant ist.",
+    "Stelle eine Verbindung zwischen Prokrastination und positiven Aspekten oder Ergebnissen her.",
+    "Ermutige das Publikum, offen und neugierig zu sein, während sie die Präsentation verfolgen.",
+    "Beende mit einer Frage oder einem Gedankenanstoß, um das Interesse zu wecken."
+  ]
+}]
